@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "The Tulip Ride"
 ---
 
-## You're ready to go!
+## The Tulip Ride
 
-Start developing your Jekyll website.
+Riding together to help Seattle Humane save lives and complete families.

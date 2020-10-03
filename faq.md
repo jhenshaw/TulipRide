@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "The Tulip Ride"
-image: https://rcpscg.ch.files.1drv.com/y4m9igel-bcAKLExMi_pyws0ND9yYMyOyC4AHzZCNkgz99ozgyP7682H0RVB_VFLTh0lloDIW0Ym2yiGy4GggwewkyVjzzWMwPQS2vvt4FpCUwYFvGS1J8N5u5vkhpXE8Bad8FUyIQzAmS-Th07vlba1vG17ZHHyKnHkZGL6BweDy0c5RmiNQbps4Y2BNXVRG8yUqx9cneah0ucn76EqLfJjw?width=850&height=425&cropmode=none
-blurb: Riding to help Seattle Humane complete families and save lives.
+image: https://www.tulipride.org/assets/images/features.jpg
+blurb: Riding together to help Seattle Humane save lives and complete families.
 permalink: /faq/
 ---
 <script type="text/javascript">
@@ -27,7 +27,7 @@ function showHide(elementid1, elementid2){
 
 ## Frequenstly Asked Questions
 
-<div><a href="javascript:showHide('div_q01', 'div_p01');" class="question" id="div_p01">[+] What is the Tulip Ride?                                                             					</a></div><div id="div_q01" class="answer" style="display: none;">The Tulip Ride is an annual guided motorcycle ride that raises money for the Humane Society of Seattle/King County. Hundreds of bikers and their passengers raise tens of thousands of dollars for the Humane Society through ride registrations and other donations!</div>
+<div><a href="javascript:showHide('div_q01', 'div_p01');" class="question" id="div_p01">[+] What is the Tulip Ride?                                                             					</a></div><div id="div_q01" class="answer" style="display: none;">The Tulip Ride is an annual guided motorcycle ride that raises money for the Humane Society of Seattle/King County. Hundreds of bikers and their passengers raise tens of thousands of dollars for the Humane Society through ride registrations and other donations!<br><br>For a full history of the Tulip Ride, please see <a href="/about/">About the Tulip Ride here.</a></div>
 <div><a href="javascript:showHide('div_q02', 'div_p02');" class="question" id="div_p02">[+] What is the date/time for the Tulip Ride?                                           					</a></div><div id="div_q02" class="answer" style="display: none;">See our <a href="./route.php">Route / Itinerary page</a> for the Tulip Ride start time, location, and itinerary.</div>
 <div><a href="javascript:showHide('div_q03', 'div_p03');" class="question" id="div_p03">[+] How do I join the Tulip Ride?                                                      					    </a></div><div id="div_q03" class="answer" style="display: none;">You register at at the <a href="/register/">Tulip Ride registration page.</a> You can sign up as a rider, passenger, or reserve one of the exclusive spots as a VIP Road Captain. VIPs lead the packs on ride day and enjoy a private dinner and cocktail reception with our celebrity riders.</div>
 <div><a href="javascript:showHide('div_q21', 'div_p21');" class="question" id="div_p21">[+] Where do I get the cool Tulip Ride clothing?              				                                </a></div><div id="div_q21" class="answer" style="display: none;">We're excited to offer a variety of Tulip Ride logo'd t-shirts, sweatshirts, and more. All sizes and styles are available! <a target="_blank" href="http://www.cafepress.com/tulipride">Visit the Tulip Ride gear store here,</a> and a few bucks from each sale will support Seattle Humane.</div>

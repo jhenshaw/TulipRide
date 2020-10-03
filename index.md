@@ -8,30 +8,37 @@ permalink: /index.html
 
 The Tulip Ride brings motorcyclists together to benefit the Seattle Humane on their mission to save lives and complete families. Every April, we kick off the Pacific Northest motorcycle riding season with a fundraiser ride from Redmond to the Skagit Valley tulip festival. 
 
-[Register now to secure your spot](./register.html) for the {{ site.ride_date | date: '%B %d' }} ride! Everyone is welcome, whether you ride or not!
+### [Register now to secure your spot](./register.html) for the {{ site.ride_date | date: '%B %d' }} ride! Everyone is welcome, whether you ride or not!
 
 ## Highlights include...
 
-<div>
-<table>
-<tr>
-	<td class="profilepiccell" ><img src="/assets/images/celebs/ks.jpg"> </td>
-	<td class="profilepiccell" ><img src="/assets/images/celebs/th.jpg"> </td>
-	<td class="profilepiccell" ><img src="/assets/images/celebs/jf.jpg"> </td>  
-	<td class="profilepiccell" ><img src="/assets/images/celebs/b.jpg"> </td>
-	<td class="profilepiccell" ><img src="/assets/images/celebs/rs.jpg"> </td>  
-</tr>	
-<tr>
-	<td class="profilepiccell" ><span class="profilepiccaption"><a href="http://kateesackhoff.com" target="_blank">KATEE SACKHOFF</a></span></td>
-	<td class="profilepiccell" ><span class="profilepiccaption"><a href="https://www.triciahelfer.com" target="_blank">TRICIA HELFER</a></span></td>
-	<td class="profilepiccell" ><span class="profilepiccaption"><a href="http://www.jthanfernandez.com" target="_blank">JOHNATHAN FERNANDEZ</a></span></td>  
-	<td class="profilepiccell" ><span class="profilepiccaption"><a href="https://957thejet.iheart.com/featured/jodi-bender-mornings/" target="_blank">BENDER</a></span></td>
-	<td class="profilepiccell" ><span class="profilepiccaption"><a href="https://linktr.ee/therekhasharma" target="_blank">REKHA SHARMA</a></span></td>
-</tr>			
-</table>
+* Joined by celebrity guests for Saturday's ride and VIP dinner!
+
+<div class="celeb">
+	<img src="/assets/images/celebs/ks.jpg"><br>
+	<span class="profilepiccaption"><a href="http://kateesackhoff.com" target="_blank">KATEE<br>SACKHOFF</a></span>
 </div>
 
-* Joined by celebrity guests for Saturday's ride and VIP dinner!
+<div class="celeb">
+	<img src="/assets/images/celebs/th.jpg"><br>
+	<span class="profilepiccaption"><a href="https://www.triciahelfer.com" target="_blank">TRICIA<br>HELFER</a></span>
+</div>
+
+<div class="celeb">
+	<img src="/assets/images/celebs/jf.jpg"><br>
+	<span class="profilepiccaption"><a href="http://www.jthanfernandez.com" target="_blank">JOHNATHAN<br>FERNANDEZ</a></span>
+</div>
+
+<div class="celeb">
+	<img src="/assets/images/celebs/b.jpg"><br>
+	<span class="profilepiccaption"><a href="https://957thejet.iheart.com/featured/jodi-bender-mornings/" target="_blank">BENDER<br></a>&nbsp;</span>
+</div>
+
+<div class="celeb">
+	<img src="/assets/images/celebs/rs.jpg"><br>
+	<span class="profilepiccaption"><a href="https://linktr.ee/therekhasharma" target="_blank">REKHA<br>SHARMA</a></span>
+</div>
+
 * Discounted Blazing Bagels breakfast, free drip coffee before the ride!
 * Scenic ride up Marine View Drive in small, guided packs of bikes.
 * Afternoon at the Skagit Valley Tulip Festival, including:	

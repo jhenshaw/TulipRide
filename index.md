@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "The Tulip Ride"
-image: https://www.tulipride.org/assets/images/features.jpg
+image: https://www.tulipride.org/assets/images/featured.jpg
 blurb: Riding together to help Seattle Humane save lives and complete families.
 permalink: /index.html
 ---

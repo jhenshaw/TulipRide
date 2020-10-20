@@ -6,48 +6,17 @@ blurb: Riding together to help Seattle Humane save lives and complete families.
 permalink: /index.html
 ---
 
-The Tulip Ride brings motorcyclists together to benefit the Seattle Humane on their mission to save lives and complete families. Every April, we kick off the Pacific Northest motorcycle riding season with a fundraiser ride from Redmond to the Skagit Valley tulip festival. 
+The Tulip Ride brings motorcyclists together to benefit the Seattle Humane on their mission to save lives and complete families. We kick off the Pacific Northest motorcycle riding season with a fundraiser ride from Redmond to the Skagit Valley tulip festival. 
 
-### [Register now to secure your spot](./register.html) for the {{ site.ride_date | date: '%B %d' }} ride! Everyone is welcome, whether you ride or not!
+### We'll announce the date for Tulip Ride 2021 as soon as conditions are safe for large-group gatherings.
 
-## Highlights include...
+While we miss riding together to support such an important cause, safety is our top priority for everyone who participates in the Tulip Ride. 
 
-* Joined by celebrity guests for Saturday's ride and VIP dinner!
+COVID trends continue to rise, and do not yet have a clear line of site on when it'll be safe to schedule Tulip Ride 2021. As a result, **we're delaying picking a date until official guidance - based upon data - is available.**
 
-<div class="celeb">
-	<img src="/assets/images/celebs/ks.jpg"><br>
-	<span class="profilepiccaption"><a href="http://kateesackhoff.com" target="_blank">KATEE<br>SACKHOFF</a></span>
-</div>
+In the meantime, thank you for doing your part to help our communities bounce back by wearing a mask in public places, washing hands frequently, and observerving social distancing guidelines.
 
-<div class="celeb">
-	<img src="/assets/images/celebs/th.jpg"><br>
-	<span class="profilepiccaption"><a href="https://www.triciahelfer.com" target="_blank">TRICIA<br>HELFER</a></span>
-</div>
-
-<div class="celeb">
-	<img src="/assets/images/celebs/jf.jpg"><br>
-	<span class="profilepiccaption"><a href="http://www.jthanfernandez.com" target="_blank">JOHNATHAN<br>FERNANDEZ</a></span>
-</div>
-
-<div class="celeb">
-	<img src="/assets/images/celebs/b.jpg"><br>
-	<span class="profilepiccaption"><a href="https://957thejet.iheart.com/featured/jodi-bender-mornings/" target="_blank">BENDER<br></a>&nbsp;</span>
-</div>
-
-<div class="celeb">
-	<img src="/assets/images/celebs/rs.jpg"><br>
-	<span class="profilepiccaption"><a href="https://linktr.ee/therekhasharma" target="_blank">REKHA<br>SHARMA</a></span>
-</div>
-
-* Discounted Blazing Bagels breakfast, free drip coffee before the ride!
-* Scenic ride up Marine View Drive in small, guided packs of bikes.
-* Afternoon at the Skagit Valley Tulip Festival, including:	
-	* Private parking and covered lunch area reserved for Tulip Riders
-	* Complimentary admission to Roozengaarde Tulip Farm
-	* Hot lunch &amp; beverages for all riders &amp; passengers provided by J&amp;L BBQ
-	* Commemorative ride pin, bandana, and more!
-		    
-Questions? <a href="mailto:info@tulipride.org">Contact us!</a>
+Stay safe, check back for updates, and feel free <a href="mailto:info@tulipride.org">contact us</a> anytime!
 
 		
 	

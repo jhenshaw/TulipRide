@@ -16,4 +16,4 @@ COVID trends continue to rise, and we do not yet have a clear idea of when it'll
 
 In the meantime, thank you for doing your part to help our communities bounce back by **wearing a mask in public places, washing hands frequently, and observerving social distancing guidelines.**
 
-Stay safe, check back for updates, and feel free <a href="mailto:info@tulipride.org">contact us</a> anytime!
+Stay safe, check back often, and feel free <a href="mailto:info@tulipride.org">contact us</a> anytime!

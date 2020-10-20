@@ -10,11 +10,11 @@ The Tulip Ride brings motorcyclists together to benefit the Seattle Humane on th
 
 ### We'll announce the date for Tulip Ride 2021 as soon as conditions are safe for large-group gatherings.
 
-While we miss riding together to support such an important cause, safety is our top priority for everyone who participates in the Tulip Ride. 
+Safety is our top priority for everyone who participates in the Tulip Ride. 
 
-COVID trends continue to rise, and do not yet have a clear line of site on when it'll be safe to schedule Tulip Ride 2021. As a result, **we're delaying picking a date until official guidance - based upon data - is available.**
+COVID trends continue to rise, and we do not yet have a clear idea of when it'll be safe to schedule Tulip Ride 2021. As a result, **we're delaying picking a date until official guidance - based upon data - is available.**
 
-In the meantime, thank you for doing your part to help our communities bounce back by wearing a mask in public places, washing hands frequently, and observerving social distancing guidelines.
+In the meantime, thank you for doing your part to help our communities bounce back by **wearing a mask in public places, washing hands frequently, and observerving social distancing guidelines.**
 
 Stay safe, check back for updates, and feel free <a href="mailto:info@tulipride.org">contact us</a> anytime!
 

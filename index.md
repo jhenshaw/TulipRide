@@ -8,7 +8,7 @@ permalink: /index.html
 
 The Tulip Ride brings motorcyclists together to benefit the Seattle Humane on their mission to save lives and complete families. We kick off the Pacific Northest motorcycle riding season with a fundraiser ride from Redmond to the Skagit Valley tulip festival. 
 
-### With Washington still in Phase 2 of opening, the Tulip Ride will not happen in April. We'll announce the date for Tulip Ride 2021 as soon as conditions are safe for large-group gatherings, including Phase 4 support for outdoor gatherings over over 50 people.
+### With Washington still in Phase 2 of opening, the Tulip Ride will not happen in April. We'll announce the date for Tulip Ride 2021 as soon as conditions are safe for large-group gatherings, including Phase 4 support for outdoor gatherings of over 50 people.
 
 Safety is our top priority for everyone who participates in the Tulip Ride. 
 
